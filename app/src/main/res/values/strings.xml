@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">RevolutApp</string>
+    <string name="rate_hint">0</string>
+    <string name="rates">Rates</string>
+
+
+    <string name="aud_lbl">Australian Dollar</string>
+    <string name="bgn_lbl">Bulgarian Lev</string>
+    <string name="brl_lbl">Brazilian Real</string>
+    <string name="cad_lbl">Canadian Dollar</string>
+    <string name="chf_lbl">Swiss Franc</string>
+    <string name="cny_lbl">Chinese Yuan</string>
+    <string name="czk_lbl">Czech Republic Koruna</string>
+    <string name="dkk_lbl">Danish Krone</string>
+    <string name="eur_lbl">Euro</string>
+    <string name="gbp_lbl">British Pound Sterling</string>
+    <string name="hkd_lbl">Hong Kong Dollar</string>
+    <string name="hrk_lbl">Croatian Kuna</string>
+    <string name="huf_lbl">Hungarian Forint</string>
+    <string name="idr_lbl">Indonesian Rupiah</string>
+    <string name="ils_lbl">Israeli New Sheqel</string>
+    <string name="inr_lbl">Indian Rupee</string>
+    <string name="isk_lbl">Icelandic Króna</string>
+    <string name="jpy_lbl">Japanese Yen</string>
+    <string name="krw_lbl">South Korean Won</string>
+    <string name="mxn_lbl">Mexican Peso</string>
+    <string name="myr_lbl">Malaysian Ringgit</string>
+    <string name="nok_lbl">Norwegian Krone</string>
+    <string name="nzd_lbl">New Zealand Dollar</string>
+    <string name="php_lbl">Philippine Peso</string>
+    <string name="pln_lbl">Poland Zloty</string>
+    <string name="ron_lbl">Romanian Leu</string>
+    <string name="rub_lbl">Russian Ruble</string>
+    <string name="sek_lbl">Swedish Krona</string>
+    <string name="sgd_lbl">Singapore Dollar</string>
+    <string name="thb_lbl">Thai Baht</string>
+    <string name="try_lbl">Turkish Lira</string>
+    <string name="usd_lbl">United States Dollar</string>
+    <string name="zar_lbl">South African Rand</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+
+</resources>

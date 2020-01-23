@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginStart="@dimen/margin_size"
+    android:layout_marginEnd="@dimen/margin_size"
+    android:background="@color/colorWhite"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/imageViewUserAvatar"
+        android:layout_width="@dimen/imageview_square"
+        android:layout_height="@dimen/imageview_square"
+        android:layout_centerVertical="true"
+        android:background="@drawable/shimmer_status" />
+
+    <TextView
+        android:textSize="@dimen/text_medium"
+        android:id="@+id/textviewAuthor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_toEndOf="@+id/imageViewUserAvatar"
+        android:background="@color/shimmer_background"
+        android:minWidth="100dp" />
+
+
+    <TextView
+        android:textSize="@dimen/text_small"
+        android:id="@+id/textviewName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textviewAuthor"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="16dp"
+        android:layout_toEndOf="@+id/imageViewUserAvatar"
+        android:background="@color/shimmer_background"
+        android:minWidth="260dp" />
+
+
+</RelativeLayout>
+

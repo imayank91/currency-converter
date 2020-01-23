@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        app:title="@string/rates"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorWhite"
+        app:titleTextColor="@color/colorBlack"
+        app:layout_scrollFlags="scroll|enterAlways"
+        app:contentInsetStartWithNavigation="0dp"
+        android:padding="0dp"
+        app:contentPadding="0dp"
+        app:contentInsetLeft="0dp"
+        app:contentInsetStart="0dp"
+        app:contentInsetEnd="0dp"
+        app:contentInsetRight="0dp"
+        app:titleMarginStart="72dp"
+        app:contentPaddingRight="0dp"
+        android:layout_marginStart="0dp"
+        app:elevation="@dimen/card_view_elevation"
+        android:elevation="@dimen/card_view_elevation"
+        android:translationZ="0.1dp">
+
+
+    </androidx.appcompat.widget.Toolbar>
+</layout>
