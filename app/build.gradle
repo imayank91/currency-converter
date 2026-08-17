@@ -37,7 +37,7 @@ android {
         coroutine_version = "1.3.0"
         shimmer_verison = "0.4.0"
         mockito_version = "2.7.22"
-        okhttp_version = "3.12.1"
+        okhttp_version = "3.14.9"
 
     }
 }
